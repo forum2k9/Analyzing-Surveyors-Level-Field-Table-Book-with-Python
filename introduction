@@ -1,0 +1,24 @@
+Hello,
+
+Let me try something new on level survey tabular data apart from the traditional reduction of the reduced levels from the observed Back-sight, Intermediate-sight and Fore-sight.
+
+I know this is never a common task among surveyors. Nevertheless, am going to talk about it today. Am going to perform some unusual statistical analysis on a levelling table using a python packages called numpy, pandas and matplotlib.
+
+Levelling is the measurement of geodetic height using an optical levelling instrument and a level staff or rod having a numbered scale.
+
+To determine the difference in level between points on the surface of the ground a 'series' of levels will need to be carried out.
+
+There are two method of Booking levels reading:
+1) Rise & Fall method and
+2) Height of collimation (height of instrument) methods
+
+The objectives of levelling survey are:-
+1) Find the elevation of a given point with respect to the given or assumed datum.
+2) Establish a point at a given elevation with respect to the given or assumed datum.
+
+Given this level table (saved in .csv file format), am going to import it into python programming environment (Jupyter NoteBook) to perform some analyses on it using a python packages called numpy, pandas and matplotlib.
+
+The easiest way to install all of these packages on python is to install python distribution package called: Anaconda. This will all the required packages and their dependencies on the fly!
+
+Now that our python environment is setup, lets start analyzing our level book/table.
+
